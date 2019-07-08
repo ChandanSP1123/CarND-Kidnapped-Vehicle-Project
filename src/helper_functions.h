@@ -249,3 +249,4 @@ inline bool read_landmark_data(std::string filename,
 }
 
 #endif  // HELPER_FUNCTIONS_H_
+
